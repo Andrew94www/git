@@ -1,1 +1,1 @@
-alert('oidfjifjggfgfg')
+alert('test')
